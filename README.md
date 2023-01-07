@@ -71,3 +71,8 @@ Los método deben ser invocados desde el método main (principal); además, las 
 * Generar un procedimiento que reciba como parámetro un arreglo unidimensional de cadenas; el mismo, se debe imprimir únicamente los valores del arreglo que tengan 4 o 5 caracteres.
 
 * Desde el método principal, se debe llamar a la función que devuelva el arreglo unidimensional y además llamar al procedimiento que imprima los valores con las consideraciones expuestas.
+
+Fernando Muños
+
+
+Roberto Bustamante
